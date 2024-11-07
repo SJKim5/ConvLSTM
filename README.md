@@ -27,31 +27,3 @@ pip install numpy pandas matplotlib tensorflow keras
 ```
 
 Additional libraries might be needed based on specific parts of the code (e.g., for data visualization or advanced metrics).
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/your-repository.git
-   ```
-
-2. Navigate to the project directory:
-   ```bash
-   cd your-repository
-   ```
-
-3. Run the Python scripts:
-   ```bash
-   python 01.Data.py
-   python 03.ConvLSTM.py
-   ```
-
-Make sure to modify any file paths or data locations if needed before running the scripts.
-
-## Contributing
-
-If you would like to contribute to this project, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
